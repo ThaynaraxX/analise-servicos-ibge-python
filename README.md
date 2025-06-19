@@ -8,9 +8,6 @@ Com o objetivo de analisar e visualizar as variações no volume de serviços po
 
 Fonte: [IBGE - Pesquisa Mensal de Serviços (PMS)](https://sidra.ibge.gov.br/)
 
-Arquivo utilizado:  
-📄 `dados_ibge.xlsx`
-
 ## Gráficos
 
 ### Variação Mensal
